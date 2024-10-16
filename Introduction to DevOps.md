@@ -9,7 +9,7 @@ The term **DevOps** is an acronym for the phrases "development" and "operations.
 **Software Development** and **Operations** are the two words that make up the term **DevOps**. As a result, the full application lifecycle—from **development to testing**, **deployment**, and **operations**—can be managed by a single team. System administrators, software developers, and quality assurance (QA) engineers can become less disconnected with the help of DevOps.
 
 
-![DevOps Architecture](images\devops-tutorial-1.png)
+![DevOps Architecture](images/devops-tutorial-1.png)
 
  DevOps promotes collaboration between Development and Operations team to deploy code to production faster in an automated & repeatable way.
 <br> 
@@ -48,7 +48,7 @@ Before going further, we need to understand why we need the DevOps over the othe
 Here are some key features of DevOps architecture, such as:
 <br>
 <br>
-![DevOps Architecture](images\devops-tutorial-4.png)
+![DevOps Architecture](images/devops-tutorial-4.png)
 <br>
 <br>
 **1) Automation**
@@ -95,7 +95,7 @@ To learn DevOps, you should have basic knowledge of **Linux**, and at least one 
 <br>
 <br>
 
-![DevOps Architecture](images\devops-tutorial-2.png)
+![DevOps Architecture](images/devops-tutorial-2.png)
 <br>
 <br>
 Development and operations both play essential roles in order to deliver applications. The deployment comprises analyzing the **requirements, designing, developing,** and **testing** of the software components or frameworks.
@@ -106,7 +106,7 @@ DevOps architecture is used for the applications hosted on the cloud platform an
 <br><br>
 Below are the various components that are used in the DevOps architecture:
 <br><br>
-![DevOps Architecture](images\devops-tutorial-3.png)
+![DevOps Architecture](images/devops-tutorial-3.png)
 <br><br>
 **1) Build**<br>
 Without DevOps, the cost of the consumption of the resources was evaluated based on the pre-defined individual usage with fixed hardware allocation. And with DevOps, the usage of cloud, sharing of resources comes into the picture, and the build is dependent upon the user's need, which is a mechanism to control the usage of resources or capacity.
@@ -136,7 +136,7 @@ Deployment to an environment can be done by automation. But when the deployment 
 DevOps defines an agile relationship between operations and Development. It is a process that is practiced by the development team and operational engineers together from beginning to the final stage of the product.
 
 <br><br>
-![DevOps Architecture](images\devops-tutorial-6.png)
+![DevOps Architecture](images/devops-tutorial-6.png)
 
 Learning DevOps is not complete without understanding the DevOps lifecycle phases. The DevOps lifecycle includes seven phases as given below:
 
@@ -149,14 +149,14 @@ This stage is the heart of the entire DevOps lifecycle. It is a software develop
 
 The code supporting new functionality is continuously integrated with the existing code. Therefore, there is continuous development of software. The updated code needs to be integrated continuously and smoothly with the systems to reflect changes to the end-users
 
-![DevOps Architecture](images\devops-tutorial-7.png)
+![DevOps Architecture](images/devops-tutorial-7.png)
 
 Jenkins is a popular tool used in this phase. Whenever there is a change in the Git repository, then Jenkins fetches the updated code and prepares a build of that code, which is an executable file in the form of war or jar. Then this build is forwarded to the test server or the production server.<br><br>
 
 **3) Continuous Testing**<br>
 This phase, where the developed software is continuously testing for bugs. For constant testing, automation testing tools such as **TestNG, JUnit, Selenium,** etc are used. These tools allow QAs to test multiple code-bases thoroughly in parallel to ensure that there is no flaw in the functionality. In this phase, **Docker** Containers can be used for simulating the test environment.
 
-![DevOps Architecture](images\devops-tutorial-8.png)
+![DevOps Architecture](images/devops-tutorial-8.png)
 
 **Selenium** does the automation testing, and TestNG generates the reports. This entire testing phase can automate with the help of a Continuous Integration tool called **Jenkins.**
 
@@ -174,7 +174,7 @@ The continuity is the essential factor in the DevOps as it removes the unnecessa
 
 **6) Continuous Deployment**<br>
 In this phase, the code is deployed to the production servers. Also, it is essential to ensure that the code is correctly used on all the servers.<br><br>
-![DevOps Architecture](images\devops-tutorial-9.png)
+![DevOps Architecture](images/devops-tutorial-9.png)
 
 The new code is deployed continuously, and configuration management tools play an essential role in executing tasks frequently and quickly. Here are some popular tools which are used in this phase, such as **Chef, Puppet, Ansible,** and **SaltStack.**
 
@@ -192,7 +192,7 @@ It is clear from the discussion that continuity is the critical factor in the De
 
 DevOps workflow provides a visual overview of the sequence in which input is provided. Also, it tells about which one action is performed, and output is generated for an operations process
 
-![DevOps Architecture](images\devops-tutorial-10.png)
+![DevOps Architecture](images/devops-tutorial-10.png)
 
 DevOps workflow allows the ability to separate and arrange the jobs which are top requested by the users. Also, it gives the ability to mirror their ideal process in the configuration jobs.
 
@@ -224,7 +224,7 @@ Some identified DevOps practices are:
 
 Here are some most popular DevOps tools:
 
-![DevOps Architecture](images\tools.jpg)
+![DevOps Architecture](images/tools.jpg)
 
 
 
@@ -267,7 +267,7 @@ DevOps engineer understands the software development lifecycle and various autom
 
 DevOps have hard as well as soft skills to communicate and collaborate with development, testing, and operations teams.
 
-![DevOps Architecture](images\devops-tutorial-11.png)
+![DevOps Architecture](images/devops-tutorial-11.png)
 
 DevOps engineers need to code occasionally from scratch, and they must have the basics of software development languages.
 
@@ -384,7 +384,7 @@ Code Pipeline is an essential feature from AWS, which highly simplifies the way 
 # DevOps vs Agile
 DevOps and Agile are the two software development methodologies with similar aims, getting the end-product as quickly and efficiently as possible. While many organizations are hoping to employ these practices, there is often some confusion between both methodologies.
 
-![DevOps Architecture](images\devops-vs-agile.png)
+![DevOps Architecture](images/devops-vs-agile.png)
 
 What does each methodology enclose? Where do they overlap? Can they work together, or should we choose one over the other?
 
@@ -420,7 +420,7 @@ Individual and team interaction over the process and tools.
 **Below are some essential differences between the DevOps and Agile:**
 
 
-![DevOps Architecture](images\devops-vs-agile-diff.png)
+![DevOps Architecture](images/devops-vs-agile-diff.png)
 
 
 
