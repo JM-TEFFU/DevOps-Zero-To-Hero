@@ -6,7 +6,7 @@ JIRA is based on the Agile methodology and the current version of the Jira is 6.
 
 **The following are the useful aspects provided by the Jira:**
 
-![DevOps Architecture](Jira-images\jira-introduction.png)
+![DevOps Architecture](Jira-images/jira-introduction.png)
 
 - **Projects:** It is used to manage the defects very effectively.
 - **Issue:** It is used to track and manage the defects/issues.
@@ -53,11 +53,11 @@ Following are the steps to download and install the JIRA software:
 
 **Step 1:** Type "**Download JIRA software**" in the Google search engine box. The screen appears as shown below:
 
-![DevOps Architecture](Jira-images\jira-installation-step1.png)
+![DevOps Architecture](Jira-images/jira-installation-step1.png)
 
 **Step 2:** Click on the "**Download Jira Software Server**". On clicking, the screen appears shown as below:
 
-![DevOps Architecture](Jira-images\jira-installation-step2.png)
+![DevOps Architecture](Jira-images/jira-installation-step2.png)
 
 
 - In the above screen, choose the OS environment type and then click on the **Download button**. Suppose, I am working on the Windows, then I choose "Windows 64 Bit".
@@ -66,56 +66,56 @@ Following are the steps to download and install the JIRA software:
 
 - In the above dialog box, click on the checkbox, and then click on the **"Get started"** button. On clicking on the Get started button, the screen appears shown as below:
 
-![DevOps Architecture](Jira-images\jira-installation3.png)
+![DevOps Architecture](Jira-images/jira-installation3.png)
 
 - Now, move to the **.exe** file which has been downloaded. Click on the downloaded file. On clicking on the downloaded file, the installation will get started.
 - An installation wizard will appear shown as below:
 
-![DevOps Architecture](Jira-images\jira-installation4.png)
+![DevOps Architecture](Jira-images/jira-installation4.png)
 
 - Click on the **Next** button.
 - Choose the appropriate type of installation and then click on the **Next** button.
 
-![DevOps Architecture](Jira-images\jira-installation5.png)
+![DevOps Architecture](Jira-images/jira-installation5.png)
 
 - The details on which JIRA software have been shown below. Click on the **Install** button.
 
-![DevOps Architecture](Jira-images\jira-installation6.png)
+![DevOps Architecture](Jira-images/jira-installation6.png)
 
 - The below screen shows that the **installation** has been started.
 
-![DevOps Architecture](Jira-images\jira-installation7.png)
+![DevOps Architecture](Jira-images/jira-installation7.png)
 
 - After the completion of the installation, the screen appears as shown below:
 
-![DevOps Architecture](Jira-images\jira-installation8.png)
+![DevOps Architecture](Jira-images/jira-installation8.png)
 
 - On clicking on the Next button, the launching of JIRA software gets started.
 
-![DevOps Architecture](Jira-images\jira-installation9.png)
+![DevOps Architecture](Jira-images/jira-installation9.png)
 
 
 Click on the **Finish** button.
 
-![DevOps Architecture](Jira-images\jira-installation10.png)
+![DevOps Architecture](Jira-images/jira-installation10.png)
 
 Now, JIRA has been launched in your web browser. You have to sign-up to the account in Jira.
 
 - You have to select the License type and enter the name of your organization.
 
-![DevOps Architecture](Jira-images\jira-installation11.png)
+![DevOps Architecture](Jira-images/jira-installation11.png)
 
 Fill the administrator details which are required to log in to Jira. Click on the **Next** button.
 
-![DevOps Architecture](Jira-images\jira-installation13.png)
+![DevOps Architecture](Jira-images/jira-installation13.png)
 
 - Jira will start finishing your setup.
 
-![DevOps Architecture](Jira-images\jira-installation14.png)
+![DevOps Architecture](Jira-images/jira-installation14.png)
 
 - Once your Jira has been set up, you are free to use the Jira software.
 
-![DevOps Architecture](Jira-images\jira-installation15.png)
+![DevOps Architecture](Jira-images/jira-installation15.png)
 
 # JIRA Waterfall Model
 
@@ -133,7 +133,7 @@ It is the easiest model for building software that represents real life.
 
 **Waterfall model is broken down into multiple phases:**
 
-![DevOps Architecture](Jira-images\jira-waterfall-model.png)
+![DevOps Architecture](Jira-images/jira-waterfall-model.png)
 
 #### Requirements
 Consider if there is a client and he wants to develop software, then the client reaches out to the company. Suppose he reaches out to the service-based company and asks the company to build the software for me.
@@ -158,7 +158,7 @@ Finally, the project is deployed and available to the clients. Clients want the 
 
 **Example of Waterfall model**
 
-![DevOps Architecture](Jira-images\jira-waterfall-model2.png)
+![DevOps Architecture](Jira-images/jira-waterfall-model2.png)
 
 Suppose the client wants an app like a WhatsApp, so he reaches to the company where both the company and the client had a discussion for 2 months. The company made the documentation of all the requirements in 2 months. Now, the development team starts developing the software and suppose it took around 10 months to develop the software. It means that 12 months have been used, i.e., 2 months in requirement phase and 10 months in a development phase, but still the client does not have the idea about the internal phases. Once the development is completed, testing is done, and it will take around 2 months for software quality testing. Once the testing is done, it goes to the integration and launch so that WhatsApp will become live. However, when it reaches to the client, then the client says that it has taken more than a year and the software that I received was not what I expected. This happened because the client had only verbal communication with the software team. If the client wants some changes in the software, then the whole process will be executed again.
 
@@ -209,13 +209,13 @@ If the company does not make the documentation, then it is not Agile.
 Agile is a philosophy, i.e., a set of values and principles to make a decision for developing software.
 Agile is based on the iterative-incremental model. In an incremental model, we create the system in increments, where each increment is developed and tested individually.
 
-![DevOps Architecture](Jira-images\agile.png)
+![DevOps Architecture](Jira-images/agile.png)
 
 The above diagram shows how agile model works incrementally.
 
 # What are values?
 
-![DevOps Architecture](Jira-images\values.png)
+![DevOps Architecture](Jira-images/values.png)
 
 In Agile, you need to perform all the eight tasks which are mentioned in the above table. However, we have to make sure that the left task should be given higher priority than the right tasks.
 
@@ -270,9 +270,9 @@ We have studied the Agile methodology where Agile is a set of beliefs which shou
 
 # How does Scrum work
 
-![DevOps Architecture](Jira-images\scrum.png)
+![DevOps Architecture](Jira-images/scrum.png)
 
-![DevOps Architecture](Jira-images\scrum2.png)
+![DevOps Architecture](Jira-images/scrum2.png)
 
 In the Waterfall model, we have read that the first whole requirements are done, then the whole designing is done, then whole development is done, and then whole testing and deployment is done. This model takes full lifecycle of the product, and then the only product is viewable to the client. While Scrum says that consider a small part of the software and then plan it, build it, test and finally review it. This small module which has been developed will be shown to the customers. For example, we need to develop the e-commerce website, which can be broken into a number of sprints or modules such as login page, payment page, cart page, etc. Then, each module is developed individually and shown to the customers simultaneously. Therefore, we can say that after the completion of each sprint, the product is shipped to the client, though not the complete product but the part of the functionality
 
@@ -282,7 +282,7 @@ The documentation and stuff which are prepared in scrum are known as Artifacts.
 
 #### Following are the artifacts of Scrum:
 
-![DevOps Architecture](Jira-images\scrum3.png)
+![DevOps Architecture](Jira-images/scrum3.png)
 
 - **Product Backlog**<br>
 Product Backlog is a collection of activities that need to be done within the project. When we want to develop software, then we need to perform the 'n' number of activities. For example, we need to develop the e-commerce website then we have to do the 'n' number of activities such we need to create the login page, payment system, cart system, etc. and these 'n' number of activities which are needed to develop the software is known as the product backlog.
@@ -319,7 +319,7 @@ After the completion of each sprint, the meeting is conducted with a client in w
 
 # Working of Sprint
 
-![DevOps Architecture](Jira-images\jira-working-of-sprint.png)
+![DevOps Architecture](Jira-images/jira-working-of-sprint.png)
 
 **Client, Stakeholders**<br>
 Suppose there is a client who wants to develop their software, so they approach the service-based company to get their software to be developed.
@@ -354,7 +354,7 @@ After sprint review, we go back to the Product Backlog and then sprint planning 
 
 **Scrum Board**
 
-![DevOps Architecture](Jira-images\jira-working-of-sprint2.png)
+![DevOps Architecture](Jira-images/jira-working-of-sprint2.png)
 
 **Product Backlog:** Product Backlog is a set of activities that need to be done to develop the software.
 
@@ -398,7 +398,7 @@ The main aim of continuous delivery to deliver the product with low risk rapidly
 
 **Kanban Board**
 
-![DevOps Architecture](Jira-images\jira-kanban-methodology.png)
+![DevOps Architecture](Jira-images/jira-kanban-methodology.png)
 
 Kanban board is a tool used to visualize the work and limit work-in-progress.
 
@@ -433,7 +433,7 @@ Each issue has an icon associated with it to identify the issue type.
 
 The below screen shows the list of Issue types:
 
-![DevOps Architecture](Jira-images\jira-issues.png)
+![DevOps Architecture](Jira-images/jira-issues.png)
 
 **There are three types of Issue types:**
 
@@ -467,7 +467,7 @@ The below screen shows the list of Issue types:
 - Subtask is an issue type that must have a parent issue.
 - To create a subtask, click on the create subtask icon for the parent issue.
 
-![DevOps Architecture](Jira-images\jira-issues2.png)
+![DevOps Architecture](Jira-images/jira-issues2.png)
 
 - It converts an issue into individual manageable tasks, and each task is assigned to the team members.
 
@@ -483,11 +483,11 @@ Subtask issue type can be converted into another issue.
 
 - Move to the details of a subtask and then click on the **more(...)** button, and then click on the **Convert to Issue.**
 
-![DevOps Architecture](Jira-images\jira-issues3.png)
+![DevOps Architecture](Jira-images/jira-issues3.png)
 
 On clicking on the **Convert to Issue**, the screen appears which is shown below. You can select the issue type of your choice.
 
-![DevOps Architecture](Jira-images\jira-issues4.png)
+![DevOps Architecture](Jira-images/jira-issues4.png)
 **Converting an issue into Subtask**
 - Open the issue that you want to convert into a subtask.
 - Click on the **on (...)** button, then drop down menu will be opened.
@@ -496,18 +496,18 @@ On clicking on the **Convert to Issue**, the screen appears which is shown below
 
 Click on the **Convert to Subtask** menu item. On clicking on the Convert to Subtask, the screen appears which is shown below:
 
-![DevOps Architecture](Jira-images\jira-issues6.png)
+![DevOps Architecture](Jira-images/jira-issues6.png)
 
 In the above screen, select the parent issue and then click on the Next>>.
 
 - The below screen shows that Step 2 is not required. Click on the Next>>.
 
 
-![DevOps Architecture](Jira-images\jira-issues7.png)
+![DevOps Architecture](Jira-images/jira-issues7.png)
 
 The below screen is Confirmation. Click on the **Finish** button.
 
-![DevOps Architecture](Jira-images\jira-issues8.png)
+![DevOps Architecture](Jira-images/jira-issues8.png)
 
 # JIRA Workflow
 
@@ -525,7 +525,7 @@ Where **transition** represents some work in the form of link between the two st
 
 
 
-![DevOps Architecture](Jira-images\jira-workflow.png)
+![DevOps Architecture](Jira-images/jira-workflow.png)
 
 - **Issue creation**<br>
 When the tester finds a defect, then they log the defect in Jira tool. Once the defect is logged in a Jira tool, the unique ticket identification number is generated by a Jira tool. This process is known as issue creation.
@@ -550,7 +550,7 @@ One activity is performed in the **Done** state:
 
 **JIRA Workflow can also be referred to as a defect lifecycle. The defect lifecycle is shown below:**
 
-![DevOps Architecture](Jira-images\jira-workflow2.png)
+![DevOps Architecture](Jira-images/jira-workflow2.png)
 
 
 - **Open issue:** When the issue is created, then the issue is assigned to the software developer, and they start working on it.
@@ -570,29 +570,29 @@ One activity is performed in the **Done** state:
 To Login to Jira, move to the website that we created in **Jira.** The login page appears and then you need to fill the credentials such as username and password.<br>
 **Click on the continue button.**
 
-![DevOps Architecture](Jira-images\jira-login.png)
+![DevOps Architecture](Jira-images/jira-login.png)
 
 - Enter the password, and then click on the **Login** button.
 
-![DevOps Architecture](Jira-images\jira-login2.png)
+![DevOps Architecture](Jira-images/jira-login2.png)
 
 - If the password is incorrect, then it displays the validation message "incorrect email address or password". This is shown in the below screenshot:
 
-![DevOps Architecture](Jira-images\jira-login3.png)
+![DevOps Architecture](Jira-images/jira-login3.png)
 
 - To overcome the above error, click on the **Can't log in?** link. On clicking on the link, we will get the screen which is shown below:
 
 
-![DevOps Architecture](Jira-images\jira-login4.png)
+![DevOps Architecture](Jira-images/jira-login4.png)
 
 - Click on the **Send recovery link** button. After clicking on the **Send recovery link** button, the mail is sent to the registered email id and ask you to **Reset my password**. When you click on the **Reset my password** button, we will get the screen which is shown below:
 
-![DevOps Architecture](Jira-images\jira-login5.png)
+![DevOps Architecture](Jira-images/jira-login5.png)
 
 - Enter your new password, and then click on the **Continue** button.
 - The above cases occur when we provide either incorrect username or password. On successful login, your jira account will get opened and the screen appears which is shown below:
 
-![DevOps Architecture](Jira-images\jira-login6.png)
+![DevOps Architecture](Jira-images/jira-login6.png)
 
 # JIRA Dashboard
 
@@ -610,35 +610,35 @@ You can add the gadgets in a default dashboard as well as you can configure the 
 
 - Login to the Jira website.
 
-![DevOps Architecture](Jira-images\jira-dashboard.png)
+![DevOps Architecture](Jira-images/jira-dashboard.png)
 
 - Click on the **Add gadget** link.
 
-![DevOps Architecture](Jira-images\jira-dashboard2.png)
+![DevOps Architecture](Jira-images/jira-dashboard2.png)
 
 - After adding the gadget, the gadget is added in your dashboard and then click on the Save button.
 
-![DevOps Architecture](Jira-images\jira-dashboard3.png)
-![DevOps Architecture](Jira-images\jira-dashboard4.png)
+![DevOps Architecture](Jira-images/jira-dashboard3.png)
+![DevOps Architecture](Jira-images/jira-dashboard4.png)
 
 - When you save the gadget, then the bubble chart is created, which is shown below:
 
-![DevOps Architecture](Jira-images\jira-dashboard5.png)
+![DevOps Architecture](Jira-images/jira-dashboard5.png)
 
 **Create a Dashboard**
 **The following are the steps to create a dashboard:**
 
 - Click on the '...' button.
 
-![DevOps Architecture](Jira-images\jira-dashboard6.png)
+![DevOps Architecture](Jira-images/jira-dashboard6.png)
 
 - Click on the Create dashboard from the drop-down menu of "...". On clicking on the Create dashboard, the screen appears, which is shown below:
 
-![DevOps Architecture](Jira-images\jira-dashboard7.png)
+![DevOps Architecture](Jira-images/jira-dashboard7.png)
 
 - Enter the details of the dashboard such as Name of the dashboard, description, etc and then click on the create button. Suppose I provide the name of the dashboard as Job Portal. The below screen shows that the dashboard has been created:
 
-![DevOps Architecture](Jira-images\jira-dashboard8.png)
+![DevOps Architecture](Jira-images/jira-dashboard8.png)
 
 
 ##
@@ -650,7 +650,7 @@ JIRA application can be used to break the pieces of work into issues. Issues can
 **There are three types of default Jira issue types that come with the JIRA software:**
 
 
-![DevOps Architecture](Jira-images\jira-issue-types.png)
+![DevOps Architecture](Jira-images/jira-issue-types.png)
 
 - Jira Core (business projects) issue types
 - Jira Software (software projects) issue types
@@ -674,7 +674,7 @@ A bug is the problem or defect that occurs in the functions of a product.
 
 - **Epic**
 
-![DevOps Architecture](Jira-images\jira-issue-types2.png)
+![DevOps Architecture](Jira-images/jira-issue-types2.png)
 
 - Epic is a large user story which is to be broken into smaller stories.
 
@@ -767,12 +767,12 @@ You can create your own Quick Filters to view only those issues that you want.
 **Steps to create a backlog**
 - Click on the + appearing on the leftmost side of the pane.
 
-![DevOps Architecture](Jira-images\jira-backlog2.png)
+![DevOps Architecture](Jira-images/jira-backlog2.png)
 
 - Fill all the details to create an issue.
-![DevOps Architecture](Jira-images\jira-backlog3.png)
-![DevOps Architecture](Jira-images\jira-backlog4.png)
-![DevOps Architecture](Jira-images\jira-backlog6.png)
+![DevOps Architecture](Jira-images/jira-backlog3.png)
+![DevOps Architecture](Jira-images/jira-backlog4.png)
+![DevOps Architecture](Jira-images/jira-backlog6.png)
 
 In the above form, fill all the mandatory details, and leave other fields with their blank or default values.
 
@@ -791,7 +791,7 @@ Priority
 It defines the priority of an issue. It can be either medium, low, or high.
 Suppose I have created an issue whose type is Bug and description is "Login Button is not working", and priority of an issue is high.
 
-![DevOps Architecture](Jira-images\jira-backlog7.png)
+![DevOps Architecture](Jira-images/jira-backlog7.png)
 
 # Jira Scrum Board
 
@@ -839,7 +839,7 @@ Swimlane is a means of categorizing of issues in an active sprint of a scrum boa
 The Scrum Board is a physical board on which the user stories present in the current sprint backlog are displayed.
 
 
-![DevOps Architecture](Jira-images\layout-of-scrum-board.png)
+![DevOps Architecture](Jira-images/layout-of-scrum-board.png)
 
 **Scrum board is divided into columns such as:**
 
@@ -855,21 +855,21 @@ The Scrum Board is a physical board on which the user stories present in the cur
 
 - Click on the **projects** appearing on the left side of the page.
 
-![DevOps Architecture](Jira-images\layout-of-scrum-board2.png)
+![DevOps Architecture](Jira-images/layout-of-scrum-board2.png)
 
 - Click on the **Create Project** button to create a new project appearing at the top right corner of the page.
 
 - Click on the template link.
 
-![DevOps Architecture](Jira-images\layout-of-scrum-board3.png)
+![DevOps Architecture](Jira-images/layout-of-scrum-board3.png)
 
 - Enter the project name.
 
-![DevOps Architecture](Jira-images\layout-of-scrum-board5.png)
+![DevOps Architecture](Jira-images/layout-of-scrum-board5.png)
 
 - In the below image, TP Board is created, which is the short name for the project named as **"Test project".**
 
-![DevOps Architecture](Jira-images\layout-of-scrum-board6.png)
+![DevOps Architecture](Jira-images/layout-of-scrum-board6.png)
 The whiteboard shown in the above image is the Jira board, which consists of issues related to a particular project.
 
 Displaying the issues on a scrum board provides the flexibility for viewing, managing, and tracking the progress of an issue.
@@ -885,15 +885,15 @@ The team needs to complete a set of issues within a specified time period, known
 
 - Click on the Backlog appearing on the left-hand side as shown below in the screenshot:
 
-![DevOps Architecture](Jira-images\jira-create-sprint.png)
+![DevOps Architecture](Jira-images/jira-create-sprint.png)
 
 - Click on the **Create sprint button** appearing on the right corner as shown in the below screenshot:
 
-![DevOps Architecture](Jira-images\jira-create-sprint2.png)
+![DevOps Architecture](Jira-images/jira-create-sprint2.png)
 
 - After clicking on the **Create sprint button**, the screen appears, which is shown below:
 
-![DevOps Architecture](Jira-images\jira-create-sprint3.png)
+![DevOps Architecture](Jira-images/jira-create-sprint3.png)
 
 The above screen shows that the sprint has been created with a name "Sprint 1", now we can add the issues to this sprint.
 
@@ -903,11 +903,11 @@ The above screen shows that the sprint has been created with a name "Sprint 1", 
 - Click on the backlog.
 - From the Backlog list, right-click on the issue and then select the sprint in which you want to add your issue. We have just now created the sprint named as Sprint 1, select the Sprint 1.
 
-![DevOps Architecture](Jira-images\jira-create-sprint4.png)
+![DevOps Architecture](Jira-images/jira-create-sprint4.png)
 
 - The issue TP-1 is added to the sprint, i.e., Sprint 1.
 
-![DevOps Architecture](Jira-images\jira-create-sprint5.png)
+![DevOps Architecture](Jira-images/jira-create-sprint5.png)
 
 From the above screen, we observe that TP-1 issue is added to the Sprint 1.
 
@@ -917,7 +917,7 @@ From the above screen, we observe that TP-1 issue is added to the Sprint 1.
 - Click on the Backlog.
 - Drag and drop the issue which is to be moved from the Sprint 1 back to the backlog list.
 
-![DevOps Architecture](Jira-images\jira-create-sprint6.png)
+![DevOps Architecture](Jira-images/jira-create-sprint6.png)
 
 The above screen shows that the issue TP-1 is moved from the Sprint 1 to the Backlog.
 
@@ -927,15 +927,15 @@ The above screen shows that the issue TP-1 is moved from the Sprint 1 to the Bac
 - Click on the Backlog.
 - Click on the start sprint button to start a sprint.
 
-![DevOps Architecture](Jira-images\jira-create-sprint7.png)
+![DevOps Architecture](Jira-images/jira-create-sprint7.png)
 
 Fill the following details to start a sprint such as a sprint name, sprint duration, end date, start date, sprint goal.
 
-![DevOps Architecture](Jira-images\jira-create-sprint8.png)
+![DevOps Architecture](Jira-images/jira-create-sprint8.png)
 
 Now, **Sprint 1** is started. Initially, the issue comes under the **TO DO** state.
 
-![DevOps Architecture](Jira-images\jira-create-sprint9.png)
+![DevOps Architecture](Jira-images/jira-create-sprint9.png)
 
 **Ending a sprint**
 **Steps to be followed to start a sprint:**
@@ -945,11 +945,11 @@ Now, **Sprint 1** is started. Initially, the issue comes under the **TO DO** sta
 - Choose the sprint that you want to complete or end the sprint.
 - Click on the **complete sprint button** appearing at the top right corner when all the issues have been completed.
 
-![DevOps Architecture](Jira-images\jira-create-sprint10.png)
+![DevOps Architecture](Jira-images/jira-create-sprint10.png)
 
 - It will show you whether all the issues have been completed or not, If not, then it asks you to move the issues to another sprint which are not yet completed.
 
-![DevOps Architecture](Jira-images\jira-create-sprint11.png)
+![DevOps Architecture](Jira-images/jira-create-sprint11.png)
 
 **Deleting a sprint**
 **Steps to be followed to delete a sprint:**
@@ -957,27 +957,12 @@ Now, **Sprint 1** is started. Initially, the issue comes under the **TO DO** sta
 - Click on the **Backlog.**
 - Choose the sprint that you want to delete, and then click on the '...' icon. The dropdown appears, and then select the **Delete the sprint** option.
 
-![DevOps Architecture](Jira-images\jira-create-sprint12.png)
+![DevOps Architecture](Jira-images/jira-create-sprint12.png)
 
 - On clicking on the **Delete sprint** option, click on the **Confirm** button.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![DevOps Architecture](Jira-images\jira-create-sprint13.png)
+![DevOps Architecture](Jira-images/jira-create-sprint13.png)
 
 # What is board?
 
@@ -985,7 +970,7 @@ A board displays all the issues that occurs within the project, providing you a 
 
 **There are three types of boards that exist in Jira:**
 
-![DevOps Architecture](Jira-images\jira-board.png)
+![DevOps Architecture](Jira-images/jira-board.png)
 
 - **Next-gen board**<br>
 This board is useful for those who are new to the agile. It is a very simplified, straight-forward, and streamlined board.
@@ -1002,7 +987,7 @@ Kanban board is an agile project management tool designed for the visualization 
 - **Backlog**<br>
 The backlog is a set of activities or issues available in a project. All the issues are grouped in a backlog and sprint. In scrum backlog, you can create and update the issue, drag and drop issue and assign them to sprints, drag, and drop the issue to rank them.
 
-![DevOps Architecture](Jira-images\jira-board2.png)
+![DevOps Architecture](Jira-images/jira-board2.png)
 
 The above screen shows the backlog which contains an issue **TP-1** whose description is that **login button is not working.**
 
@@ -1012,23 +997,23 @@ Active sprint is a sprint that contains the issues on which the team is currentl
 **Steps to create an active sprint:**
 - Click on the Backlog. After clicking on the Backlog, the screen appears, which is shown below:
 
-![DevOps Architecture](Jira-images\jira-board3.png)
+![DevOps Architecture](Jira-images/jira-board3.png)
 The above screen shows the Backlog which contains an issue **"Login button is not working".**
 
 - Click on the **Create sprint** button to create a sprint. On clicking on the Create sprint button, the screen appears, which is shown below:
 
-![DevOps Architecture](Jira-images\jira-board4.png)
+![DevOps Architecture](Jira-images/jira-board4.png)
 The above screen shows that sprint is created named as **Sprint 1.**
 
 - Drag and drop the issue from backlog to Sprint 1.
 
-![DevOps Architecture](Jira-images\jira-board5.png)
+![DevOps Architecture](Jira-images/jira-board5.png)
 In the above screen, we observe that the issue has been dragged from the backlog to Sprint 1, and the issue is removed from the backlog.
 
 - Click on the **start sprint** button to make an active sprint.
 - Click on the **Active sprint** appearing on the left-side of the panel.
 
-![DevOps Architecture](Jira-images\jira-board6.png)
+![DevOps Architecture](Jira-images/jira-board6.png)
 The above screen shows that Sprint 1 is an active sprint on which the team is currently working on.
 
 - **Reports**
@@ -1048,7 +1033,7 @@ Kanban has a separate column of Backlog from where we plan the work for our team
 
 - Create an issue. When we create an issue, then it is added to the Backlog automatically.
 
-![DevOps Architecture](Jira-images\jira-board7.png)
+![DevOps Architecture](Jira-images/jira-board7.png)
 The above screen shows that HEL-1 issue that we created is added to the backlog.
 
 **Kanban board**<br>
@@ -1075,16 +1060,16 @@ How to create a Next-gen project
 - Click on the **Create project** drop-down menu and then select the **Try next-gen** project option.
 
 
-![DevOps Architecture](Jira-images\jira-board8.png)
+![DevOps Architecture](Jira-images/jira-board8.png)
 After clicking on the Try next-gen project, the screen appears, which is shown below:
 
-![DevOps Architecture](Jira-images\jira-board9.png)
+![DevOps Architecture](Jira-images/jira-board9.png)
 
 The above screen shows that we have chosen the Scrum template, we can also change the template by clicking on the link Change template. After selecting the template, enter the project name, we have given the Testing project as a project name. Click on the Create button.
 
 - After clicking on the **create** button, Next-gen Scrum project is created, which is shown below:
 
-![DevOps Architecture](Jira-images\jira-board10.png)
+![DevOps Architecture](Jira-images/jira-board10.png)
 
 # JIRA Bug Life Cycle
 
@@ -1101,7 +1086,7 @@ A bug has its life cycle from the point when the bug is logged in to the point t
 - Verified
 - Closed
 
-![DevOps Architecture](Jira-images\jira-bug-life-cycle.png)
+![DevOps Architecture](Jira-images/jira-bug-life-cycle.png)
 
 ##
 
@@ -1180,7 +1165,7 @@ Bugzilla is also a bug tracking tool developed by the Mozilla Foundation in 1998
 
 #### Differences between Jira & Bugzilla
 
-![DevOps Architecture](Jira-images\jira-vs-bugzilla.png)
+![DevOps Architecture](Jira-images/jira-vs-bugzilla.png)
 #### The following are the differences between Jira and Bugzilla are:
 
 - **License**<br>
@@ -1238,7 +1223,7 @@ Bugzilla provides an advanced search feature, but Jira has more flexible Jira qu
 
 Epics are composed of multiple stories, while Initiatives are made up of Epics. Therefore, we can say that initiatives come above the epics. Initiative takes the Epics from the multiple teams to achieve a bigger goal than any of the Epics can achieve themselves.
 
-![DevOps Architecture](Jira-images\jira-epic.png)
+![DevOps Architecture](Jira-images/jira-epic.png)
 
 **Working of Epic**<br>
 **Creating an Epic**<br>
@@ -1248,21 +1233,21 @@ Epics are composed of multiple stories, while Initiatives are made up of Epics. 
 
 **Step 1:** Click on the '+' icon appearing at the left side of the panel.
 
-![DevOps Architecture](Jira-images\jira-epic2.png)
+![DevOps Architecture](Jira-images/jira-epic2.png)
 **Step 2: On clicking the + icon, the screen appears, which is shown below:**
 
 
-![DevOps Architecture](Jira-images\jira-epic3.png)
+![DevOps Architecture](Jira-images/jira-epic3.png)
 
 **Step 3:** Select the issue type as Epic.
 - **Creating an epic from the Epics panel**
 **Step 1:** Click on the **Backlog** appearing at the left side of the panel.
 
-![DevOps Architecture](Jira-images\jira-epic4.png)
+![DevOps Architecture](Jira-images/jira-epic4.png)
 
 **Step 2:** Click on the **Epics** shown in the epics panel.
 
-![DevOps Architecture](Jira-images\jira-epic5.png)
+![DevOps Architecture](Jira-images/jira-epic5.png)
 
 **Step 3:** Click on the **Create Epic** link.
 In the above two cases, you need to enter the following details in order to create the epic:
@@ -1274,11 +1259,11 @@ There are two ways of adding stories in epic:
 - **Adding an issue from the issue create screen**
 **Step 1:** Click on the + icon appearing at the left side of the panel.
 
-![DevOps Architecture](Jira-images\jira-epic6.png)
+![DevOps Architecture](Jira-images/jira-epic6.png)
 <br>
 **Step 2:** Click on the dropdown of issue type and select an issue type other than epic.
 
-![DevOps Architecture](Jira-images\jira-epic7.png)
+![DevOps Architecture](Jira-images/jira-epic7.png)
 
 The above screen shows that we have created an issue of type **Bug** and we add this issue in an epic "Summary". We add the epic in an **Epic Link** field.
 
@@ -1290,7 +1275,7 @@ The above screen shows that we have created an issue of type **Bug** and we add 
 
 **Step 3:** Click on the create issue in epic link.
 
-![DevOps Architecture](Jira-images\jira-epic8.png)
+![DevOps Architecture](Jira-images/jira-epic8.png)
 
 - **Removing an issue from the epic**
 
@@ -1300,13 +1285,13 @@ The above screen shows that we have created an issue of type **Bug** and we add 
 
 **Step 2:** Drag and drop the issue to **issues without epics.**
 
-![DevOps Architecture](Jira-images\jira-epic9.png)
+![DevOps Architecture](Jira-images/jira-epic9.png)
 
 **Viewing all your Epics**
 
 We can see the information related to your epic in the Backlog.
 
-![DevOps Architecture](Jira-images\jira-epic10.png)
+![DevOps Architecture](Jira-images/jira-epic10.png)
 
 1. **Epics panel:** Navigate to the Backlog and then click on the Epics panel to view and manage your epics.
 2. **List of Epics:** The Epics panel shows the list of all the epics in your project.
@@ -1323,10 +1308,10 @@ Once all the work related to an epic is completed, then the epic is marked as co
 - Select the epic to which you want to mark it as **Done.**
 - Click on the dropdown and select the option **"Mark as Done".**
 
-![DevOps Architecture](Jira-images\jira-epic11.png)
+![DevOps Architecture](Jira-images/jira-epic11.png)
 When you mark the epic as **Done**, then the dialog box appears asking for the confirmation.
 
-![DevOps Architecture](Jira-images\jira-epic12.png)
+![DevOps Architecture](Jira-images/jira-epic12.png)
 
 # Jira Versions
 
@@ -1340,17 +1325,17 @@ You can assign issues to a specific version and can organize the sprints in that
 
 **Step 2:** Click on the Releases appearing at the left side of the panel.
 
-![DevOps Architecture](Jira-images\jira-versions.png)
+![DevOps Architecture](Jira-images/jira-versions.png)
 
 **Step 3:** After clicking on the **Releases link**, the screen appears, which is shown below:
 
-![DevOps Architecture](Jira-images\jira-versions2.png)
+![DevOps Architecture](Jira-images/jira-versions2.png)
 
 **Step 4:** Click on the Create version button.
 
 **Step 5:** On clicking on the **Create version** button, the pop-up window appears asking for the version name and its description.
 
-![DevOps Architecture](Jira-images\jira-versions3.png)
+![DevOps Architecture](Jira-images/jira-versions3.png)
 
 **Adding issues to version**
 
@@ -1360,7 +1345,7 @@ You can assign issues to a specific version and can organize the sprints in that
 
 **Step 3:** Click on the Versions panel.
 
-![DevOps Architecture](Jira-images\jira-versions4.png)
+![DevOps Architecture](Jira-images/jira-versions4.png)
 
 **Step 4:** Drag the issue to a version that you want to add in a version.
 
@@ -1371,10 +1356,10 @@ You can complete a version when your version is ready to be released. The versio
 
 **Step 2:** Click on the **Releases link** appearing at the left side of the panel.
 
-![DevOps Architecture](Jira-images\jira-versions5.png)
+![DevOps Architecture](Jira-images/jira-versions5.png)
 **Step 3:** To release the version, go to ellipsis (...) > Release.
 
-![DevOps Architecture](Jira-images\jira-versions6.png)
+![DevOps Architecture](Jira-images/jira-versions6.png)
 
 # Jira Reports
 Reports are used to track and analyze the team's performance throughout a project.
@@ -1390,7 +1375,7 @@ An average age report shows the average age of unresolved issues for a project o
 **Average age report can be shown as below:**
 
 
-![DevOps Architecture](Jira-images\jira-reports.png)
+![DevOps Architecture](Jira-images/jira-reports.png)
 
 The above screen shows the average age of all the unresolved issues over the past 30 days.
 
@@ -1399,7 +1384,7 @@ The pie chart displays the issues which are returned from the specified project 
 
 Suppose I choose the statistic type as **Assignee.**
 
-![DevOps Architecture](Jira-images\jira-reports1.png)
+![DevOps Architecture](Jira-images/jira-reports1.png)
 
 The above screen shows the pie chart based on the "Assignee" type. The above chart shows that the one issue is assigned to the Akshita Gupta, and the other four issues are unassigned.
 
@@ -1408,12 +1393,12 @@ The created vs. resolved issue is a report that displays the number of issues wh
 
 This report is created based on the project and issue filter that the user chooses and the chart can either be cumulative or not.
 
-![DevOps Architecture](Jira-images\jira-reports2.png)
+![DevOps Architecture](Jira-images/jira-reports2.png)
 
 **Recently Created Issues Report**
 The recently created issues report displays the number of issues that are created, and some of the issues are resolved.
 
-![DevOps Architecture](Jira-images\jira-reports3.png)
+![DevOps Architecture](Jira-images/jira-reports3.png)
 
 In the above screen, the red portion shows that that issues are created and they are unresolved while the green color shows that the issues are created, but they are resolved.
 
@@ -1423,11 +1408,11 @@ The resolution time report determines the length of the time taken to resolve th
 **Single Level Group By Report**
 Single level group by report categorizes the issues by a particular field for an issue filter, but it does not display the chart.
 
-![DevOps Architecture](Jira-images\jira-reports4.png)
+![DevOps Architecture](Jira-images/jira-reports4.png)
 
 The above screen shows that one issue, i.e., HEL-1, is assigned while other four issues, i.e., HEL-5, HEL-3, HEL-2, HEL-4, are unassigned. The Single Level Group By Report shows the progress of both assigned and unassigned issues.
 
 **Time Since Issues Report**
 The Time Since Issues Report generates the report that shows the number of issues for the chosen data field, and the data field can be Created, Updated, Due, Resolved.
 
-![DevOps Architecture](Jira-images\jira-reports5.png)
+![DevOps Architecture](Jira-images/jira-reports5.png)
